@@ -145,7 +145,7 @@
         <!-- Modals z-index remains at 1000, now below the navigation bar -->
         <div id="welcome-modal" class="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50 z-[1000] hidden p-4">
             <div class="bg-white rounded-xl shadow-2xl p-6 sm:p-8 max-w-md mx-auto text-center animate-fade-in-up">
-                <h2 class="text-2xl sm:text-3xl font-bold mb-4 text-gray-800">Paalam to Your Community Alert System!</h2>
+                <h2 class="text-2xl sm:text-3xl font-bold mb-4 text-gray-800">Welcome to Your Community Alert System!</h2>
                 <p class="mb-6 text-gray-700">Connect with your neighbors and stay informed about local emergencies.</p>
                 <button id="close-modal" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-5 rounded-lg transition duration-300">Close</button>
             </div>
